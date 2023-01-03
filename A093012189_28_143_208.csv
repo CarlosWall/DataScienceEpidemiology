@@ -1,0 +1,29 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+AIH aprovadasInternaçõesValor totalValor serviços hospitalaresVal serv hosp - compl federalVal serv hosp - compl gestorValor serviços profissionaisVal serv prof - compl federalVal serv prof - compl gestorValor médio AIHValor médio internDias permanênciaMédia permanênciaÓbitosTaxa mortalidade por Município
+Procedimento: 0211050105 POLISSONOGRAFIA
+Período:Abr/2021
+"Município";"AIH_aprovadas";"Internações";"Valor_total";"Valor_serviços_hospitalares";"Val_serv_hosp_-_compl_federal";"Val_serv_hosp_-_compl_gestor";"Valor_serviços_profissionais";"Val_serv_prof_-_compl_federal";"Val_serv_prof_-_compl_gestor";"Valor_médio_AIH";"Valor_médio_intern";"Dias_permanência";"Média_permanência";"Óbitos";"Taxa_mortalidade"
+"240810 Natal";16;16;2720,00;2000,00;-;-;720,00;-;-;170,00;170,00;16;1,0;-;-
+"250750 João Pessoa";8;8;1360,00;1000,00;-;-;360,00;-;-;170,00;170,00;7;0,9;-;-
+"261160 Recife";16;16;3580,00;2680,00;-;-;900,00;-;-;223,75;223,75;18;1,1;-;-
+"292740 Salvador";1;1;170,00;125,00;-;-;45,00;-;-;170,00;170,00;1;1,0;-;-
+"330455 Rio de Janeiro";13;13;2210,00;1625,00;-;-;585,00;-;-;170,00;170,00;33;2,5;-;-
+"352690 Limeira";6;6;1020,00;750,00;-;-;270,00;-;-;170,00;170,00;6;1,0;-;-
+"354340 Ribeirão Preto";3;3;510,00;375,00;-;-;135,00;-;-;170,00;170,00;3;1,0;-;-
+"354980 São José do Rio Preto";14;14;2380,00;1750,00;-;-;630,00;-;-;170,00;170,00;14;1,0;-;-
+"355030 São Paulo";70;70;11916,00;8766,00;-;-;3150,00;-;-;170,23;170,23;70;1,0;-;-
+"410690 Curitiba";9;9;1530,00;1125,00;-;-;405,00;-;-;170,00;170,00;12;1,3;-;-
+"420540 Florianópolis";12;12;2040,00;1500,00;-;-;540,00;-;-;170,00;170,00;12;1,0;-;-
+"431490 Porto Alegre";24;24;4262,04;3182,04;-;-;1080,00;-;-;177,59;177,59;27;1,1;-;-
+"Total";192;192;33698,04;24878,04;-;-;8820,00;-;-;175,51;175,51;219;1,1;-;-
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
